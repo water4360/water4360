@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Soob👋
 
  🌱 I’m currently learning JAVA, HTML, CSS, JavaScript
  
