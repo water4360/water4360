@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ 🌱 I’m currently learning JAVA, HTML, CSS, JavaScript
+ 
 <!--
 **water4360/water4360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
