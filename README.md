@@ -23,7 +23,7 @@
  
 ## 💾 info.
 <!-- version/data -->
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=black">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <a href="https://developer758.notion.site/103d728295ed424b87ba552c061115fa?v=8dacda8f02d34e16a2f1154c1d5d60ca" target="_blank"><img src="https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=black">
 
 몇가지 디자인/영상 툴도 다룹니다.<br>
 better to be prettier😉🎨
