@@ -10,7 +10,7 @@
  
 ![water4360's GitHub stats](https://github-readme-stats.vercel.app/api?username=water4360&show_icons=true&theme=vue)
  
-## 🛠️ Tech stacks
+## ⚙ Tech stacks
 <!-- backend stack / java -->
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
         <br>
@@ -21,7 +21,7 @@
 ## 🛠️ IDE
 <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
  
-## 💾 Version, info.
+## 🔗 Coopertaion Tool
 <!-- version/data -->
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><br>
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <a href="https://developer758.notion.site/103d728295ed424b87ba552c061115fa?v=8dacda8f02d34e16a2f1154c1d5d60ca" target="_blank"><img src="https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=black"></a>
